@@ -8,7 +8,7 @@
 
 ---
 
-### **Socials**
+### **Social Links**
 <div id="badges">
   <a href="https://www.youtube.com/@cipherodev">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
