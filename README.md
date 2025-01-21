@@ -31,5 +31,5 @@
 
 
 
-<img src="https://media1.tenor.com/m/YqA131XtLI8AAAAC/anime-blackrockshooter.gif" width="300" alt="Ciphero Dev GIF"/>
+<img src="https://media1.tenor.com/m/YqA131XtLI8AAAAC/anime-blackrockshooter.gif" width="100" alt="Ciphero Dev GIF"/>
 
