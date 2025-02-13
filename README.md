@@ -28,11 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipherodev&layout=donut-vertical&theme=vision-friendly-dark" alt="Top Languages", width="213" />
 </div>
 
----
-<img src="https://media1.tenor.com/m/YqA131XtLI8AAAAC/anime-blackrockshooter.gif" width="213" alt="Ciphero Dev GIF"/>
-
----
-
 
 
 
