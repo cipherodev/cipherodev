@@ -10,18 +10,6 @@
 </div>
 
 ---
-
-### **Social Links**
-<div id="badges">
-  <a href="https://www.youtube.com/@cipherodev">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <a href="https://www.instagram.com/cipherodev/">
-    <img src="https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
-
----
 ### **Account Stats**
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=cipherodev&show_icons=true&theme=radical" alt="GitHub Stats", height="230"/>
